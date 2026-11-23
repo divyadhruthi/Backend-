@@ -1,10 +1,9 @@
-
 # Lab 2: SQLite Database and CRUD Routes
 
 ## Student Details
 
-- **Name:** SOMULA SUDHARSHAN REDDY
-- **Registration Number:** 252U1R1231
+- **Name:** Y Divya Dhruthi
+- **Registration Number:** 252U1R1261
 - **Section:** CSE-CORE-2E
 
 ## Objective
@@ -123,10 +122,6 @@ http://localhost:3000/
 - Tested the endpoints using HTTP requests.
 - Nodemon automatically restarts the server when changes are made.
 - The database is updated after POST, PUT and DELETE operations.
-
-## Deployment
-
-Live link: Not deployed. The application is tested locally.
 
 ## Conclusion
 

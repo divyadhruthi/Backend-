@@ -1,10 +1,9 @@
-
 # Lab 1: Node.js and Express Server
 
 ## Student Details
 
-- **Name:** SOMULA SUDHARSHAN REDDY
-- **Registration Number:** 252U1R1231
+- **Name:** Y Divya Dhruthi
+- **Registration Number:** 252U1R1261
 - **Section:** CSE-CORE-2E
 
 ## Objective
